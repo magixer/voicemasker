@@ -1,25 +1,37 @@
-Info:
+Info:<br/>
 • Simple real time voice masking app based on python.
 
-Prerequisites (Usually every prerequisite except SoX is preinstalled) : 
-• Python3.5+ 
-• Python TkInter
-• SoX (apt install sox)
-• PulseAudio 
+Prerequisites (Usually every prerequisite except SoX is preinstalled) :<br/>
+• Python3.5+ <br/>
+• Python TkInter <br/>
+• SoX (apt install sox)<br/>
+• PulseAudio <br/>
 
-How to install and use?:
-• git clone https://github.com/magixer/voicemasker.git
-• cd voicemasker
-• python3 voicemask.py
-• #Tinker wth pitch shift and flanger effects to get your desired voice
-• Select input from voice changer 
+How to install and use?:<br/>
+• git clone https://github.com/magixer/voicemasker.git <br/>
+• cd voicemasker<br/>
+• python3 voicemask.py<br/>
+• #Tinker wth pitch shift and flanger effects to get your desired voice<br/>
+• Select input from voice changer <br/>
 
 :> Comment if it doesnt work for you, i'll help :>
 
-lol you're done already y u still here ;-; 
-plis go u makin me nevous ;-; 
-bye
-good dey
-bye 
-byeee
-plis go ;-; 
+
+
+
+
+
+
+
+
+
+
+
+
+lol you're done already y u still here ;-; <br>
+plis go u makin me nevous ;-; <br>
+bye <br>
+good dey <br>
+bye <br>
+byeee <br>
+plis go ;-; <br>
