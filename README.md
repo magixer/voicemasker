@@ -15,18 +15,18 @@ How to install and use?:<br/>
 • Select input from voice changer <br/>
 
 :> Comment if it doesnt work for you, i'll help :>
-
-
-
-
-
-
-
-
-
-
-
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 lol you're done already y u still here ;-; <br>
 plis go u makin me nevous ;-; <br>
